@@ -40,7 +40,7 @@ class RenderNetworkActivity : AppCompatActivity() {
                     Uri.parse(GLTF_ASSET),
                     RenderableSource.SourceType.GLTF2
                 )
-                    .setScale(0.1f)
+                    .setScale(0.5f)
                     .setRecenterMode(RenderableSource.RecenterMode.ROOT)
                     .build()
             )
