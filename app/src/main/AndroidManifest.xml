@@ -21,7 +21,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ARApplication">
-        <activity android:name=".LocalSceneActivity"></activity>
+        <activity android:name=".AugmentImageActivity"></activity>
+        <activity android:name=".LocalSceneActivity" />
         <activity android:name=".RenderLocalActivity" />
         <activity android:name=".RenderNetworkActivity" />
         <!--

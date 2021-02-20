@@ -48,6 +48,10 @@ class MainActivity : AppCompatActivity() {
         startActivity(Intent(this, LocalSceneActivity::class.java))
     }
 
+    fun onAugImageClick(view: View) {
+        startActivity(Intent(this, AugmentImageActivity::class.java))
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
