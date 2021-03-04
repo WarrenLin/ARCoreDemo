@@ -12,3 +12,9 @@ Demonstrate using ARCore sdk and LocationScene.
 <img width="350" alt="portfolio_view" src="https://user-images.githubusercontent.com/3991213/108462200-2c22ec80-72b7-11eb-8483-a3a176e449d7.jpg">
 
 <img width="350" alt="portfolio_view" src="https://user-images.githubusercontent.com/3991213/108462210-2e854680-72b7-11eb-9ed5-21bae54641e5.jpg">
+
+# Downoad Sample app
+
+https://tinyurl.com/ybupuhnc
+
+<img width="350" alt="portfolio_view" src="https://i.imgur.com/gPPlIca.png">
